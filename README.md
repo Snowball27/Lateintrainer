@@ -5,3 +5,5 @@ Eine kleine Lateinapp, die Vokabeln abfragt, als Deklinations-/ Konjugationslern
 Geschrieben mit Kivy (http://www.kivy.org#home).
 
 Hier erhältlich: https://play.google.com/store/apps/details?id=org.lateintrnr.lateintrainer2
+
+- Hannes Perathoner
